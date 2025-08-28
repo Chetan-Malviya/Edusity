@@ -1,12 +1,57 @@
-# React + Vite
+Edusity 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Education Website built with React + Vite. This project provides a clean UI for showcasing educational content, courses, and institutions with a user-friendly experience.
 
-Currently, two official plugins are available:
+🔗 Live Demo: (https://edusity-cm.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+📱 Responsive Design – Works smoothly on all devices.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🎨 Modern UI/UX – Built with React and styled for a clean look.
+
+🏫 Educational Theme – Course highlights, university details, and learning-focused layout.
+
+⚡ Super Fast Build – Powered by Vite for blazing fast development and bundling.
+
+🔍 Easy Navigation – Clear structure for smooth user experience.
+
+🛠️ Tech Stack
+
+Frontend: React.js + Vite
+
+Styling: CSS3 (with responsive design principles)
+
+Deployment: Vercel
+
+📂 Installation & Setup
+
+Follow these steps to run the project locally:
+
+# Clone the repository
+git clone https://github.com/Chetan-Malviya/Edusity.git
+
+# Navigate into the folder
+cd Edusity
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+
+
+The app will be live at http://localhost:5173/ 🎉
+
+🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and create a pull request.
+
+👨‍💻 Author
+
+Chetan Malviya
+
+⭐ Support
+
+If you like this project, don’t forget to star the repo ⭐ on GitHub!
