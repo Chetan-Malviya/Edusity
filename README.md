@@ -6,23 +6,23 @@ A modern and responsive Education Website built with React + Vite. This project 
 
 🚀 Features
 
-📱 Responsive Design – Works smoothly on all devices.
+• 📱 Responsive Design – Works smoothly on all devices.
 
-🎨 Modern UI/UX – Built with React and styled for a clean look.
+• 🎨 Modern UI/UX – Built with React and styled for a clean look.
 
-🏫 Educational Theme – Course highlights, university details, and learning-focused layout.
+• 🏫 Educational Theme – Course highlights, university details, and learning-focused layout.
 
-⚡ Super Fast Build – Powered by Vite for blazing fast development and bundling.
+•⚡ Super Fast Build – Powered by Vite for blazing fast development and bundling.
 
-🔍 Easy Navigation – Clear structure for smooth user experience.
+•🔍 Easy Navigation – Clear structure for smooth user experience.
 
 🛠️ Tech Stack
 
-Frontend: React.js + Vite
+• Frontend: React.js + Vite
 
-Styling: CSS3 (with responsive design principles)
+• Styling: CSS3 (with responsive design principles)
 
-Deployment: Vercel
+• Deployment: Vercel
 
 📂 Installation & Setup
 
