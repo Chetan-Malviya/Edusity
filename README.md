@@ -1,57 +1,60 @@
-Edusity 🎓
+# 🎓 Edusity – Education Website
 
-A modern and responsive Education Website built with React + Vite. This project provides a clean UI for showcasing educational content, courses, and institutions with a user-friendly experience.
+Edusity is a modern and responsive **Education Website** built using **React + Vite**.  
+It provides a clean and user-friendly interface for showcasing educational content, courses, and institutions.
 
-🔗 Live Demo: (https://edusity-cm.vercel.app/)
+🔗 **Live Demo:** https://edusity-cm.vercel.app/
 
-🚀 Features
+---
 
-• 📱 Responsive Design – Works smoothly on all devices.
+## 🚀 Features
 
-• 🎨 Modern UI/UX – Built with React and styled for a clean look.
+- 📱 **Responsive Design** – Works smoothly across all devices
+- 🎨 **Modern UI/UX** – Clean and minimal design built with React
+- 🏫 **Educational Theme** – Course highlights, university details, and learning-focused layout
+- ⚡ **Fast Performance** – Powered by Vite for blazing-fast builds and development
+- 🔍 **Easy Navigation** – Clear structure for a smooth user experience
 
-• 🏫 Educational Theme – Course highlights, university details, and learning-focused layout.
+---
 
-•⚡ Super Fast Build – Powered by Vite for blazing fast development and bundling.
+## 🛠️ Tech Stack
 
-•🔍 Easy Navigation – Clear structure for smooth user experience.
+- **Frontend:** React.js + Vite  
+- **Styling:** CSS3 (Responsive Design)  
+- **Deployment:** Vercel  
 
-🛠️ Tech Stack
+---
 
-• Frontend: React.js + Vite
+## 📂 Installation & Setup
 
-• Styling: CSS3 (with responsive design principles)
+Follow the steps below to run the project locally:
 
-• Deployment: Vercel
+### Clone the repository
 
-📂 Installation & Setup
-
-Follow these steps to run the project locally:
-
-# Clone the repository
+```bash
 git clone https://github.com/Chetan-Malviya/Edusity.git
+```
+### Navigate into the project directory
 
-# Navigate into the folder
+```bash
 cd Edusity
+```
 
-# Install dependencies
+### Install dependencies
+
+```bash
 npm install
+```
 
-# Run the development server
+### Start the development server
+
+```bash
 npm run dev
+```
 
+---
 
-The app will be live at http://localhost:5173/ 🎉
+## 👨‍💻 Author
 
-🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to fork the repo and create a pull request.
-
-👨‍💻 Author
-
-Chetan Malviya
-
-⭐ Support
-
-If you like this project, don’t forget to star the repo ⭐ on GitHub!
+**Chetan Malviya**  
+Full Stack Developer (MERN)
